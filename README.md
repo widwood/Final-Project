@@ -1,7 +1,14 @@
 # Final-Project
 
-<h1>JavaScript Development Course Batch 3 in Medan</h1><br>
-<img src="https://hacktiv8.com/img/logo/dev-c/logo-devc.png__vzu2vhp2VRX%2Bewg7J0bPlaAa7011483f450f625b95497c6d4afe084">
+<div class="row">
+  <div class="column" style="padding-right: 50px;">
+    <img src="https://hacktiv8.com/img/logo/dev-c/logo-h8.png__vzu2vhp2VRX%2Bewg7J0bPlaA158b568a02339a02a2dd104057afb3c1">
+  </div>
+  <div class="column">
+    <img src="https://hacktiv8.com/img/logo/dev-c/logo-devc.png__vzu2vhp2VRX%2Bewg7J0bPlaAa7011483f450f625b95497c6d4afe084">
+  </div>
+</div>
+<h2>JavaScript Development Course Batch 3 in Medan</h2><br>
 <br><br>
 
 Untuk final project kalian, buatlah sebuah web dengan kriteria sebagai berikut:<br>
@@ -12,5 +19,3 @@ Untuk final project kalian, buatlah sebuah web dengan kriteria sebagai berikut:<
   <li>Memiliki 3 halaman (minimal)</li>
   <li>Upload ke Github dengan nama repository "Final Project"</li>
 </ul>
-
-<h2>UI</h2>
