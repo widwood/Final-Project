@@ -1,10 +1,8 @@
-<h2>JavaScript Development Course Batch 3 in Medan</h2><br>
-<h3>Sponsored by</h3>
-<img src="https://hacktiv8.com/img/logo/dev-c/logo-h8.png__vzu2vhp2VRX%2Bewg7J0bPlaA158b568a02339a02a2dd104057afb3c1">
+# Final-Project
+
+<h1>JavaScript Development Course Batch 3 in Medan</h1><br>
 <img src="https://hacktiv8.com/img/logo/dev-c/logo-devc.png__vzu2vhp2VRX%2Bewg7J0bPlaAa7011483f450f625b95497c6d4afe084">
 <br><br>
-
-# Final-Project
 
 Untuk final project kalian, buatlah sebuah web dengan kriteria sebagai berikut:<br>
 <ul>
